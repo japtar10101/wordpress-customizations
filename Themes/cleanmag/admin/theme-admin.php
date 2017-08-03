@@ -44,13 +44,13 @@ $_REQUEST['updated'] = false;
 
 <tr valign="top">
 <th scope="row">Theme Credits</th>
-<td><p>The <a href="http://www.wpexplorer.com/cleanmag-wordpress-theme.html">CleanMag</a> Theme was created by AJ Clarke from <a href="http://www.wpexplorer.com"><strong>WPExplorer.com</strong></a></p>
+<td><p>The <a href="https://www.wpexplorer.com/cleanmag-wordpress-theme.html">CleanMag</a> Theme was created by AJ Clarke from <a href="https://www.wpexplorer.com"><strong>WPExplorer.com</strong></a></p>
 </td>
 </tr>
 
 <tr valign="top">
 <th scope="row">Do You like my themes?</th>
-<td><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=215260205165212&amp;xfbml=1"></script><fb:like href="http://www.wpexplorer.com/" send="true" layout="button_count" width="450" height="40" show_faces="false" font=""></fb:like></td>
+<td><div id="fb-root"></div><script src="https://connect.facebook.net/en_US/all.js#appId=215260205165212&amp;xfbml=1"></script><fb:like href="https://www.wpexplorer.com/" send="true" layout="button_count" width="450" height="40" show_faces="false" font=""></fb:like></td>
 </tr>
 
 <tr valign="top">
@@ -84,7 +84,7 @@ $_REQUEST['updated'] = false;
 <th scope="row">View My Premium Work</th>
 <td>
 <p>If you like my free themes, you will love my premium themes (which include support)</p>
-<a href="http://themeforest.net/user/WPExplorer?ref=wpexplorer" target="_blank">Premium Themes by WPExplorer</a>
+<a href="https://themeforest.net/user/WPExplorer?ref=wpexplorer" target="_blank">Premium Themes by WPExplorer</a>
 </td>
 </tr>
 

@@ -3,7 +3,7 @@
 /* Shortcodes
 ******************************************/
 /**** Clean UP SHORTCODES ****///Clean Up WordPress Shortcode Formatting - important for nested shortcodes
-//adjusted from http://donalmacarthur.com/articles/cleaning-up-wordpress-shortcode-formatting/
+//adjusted from https://donalmacarthur.com/articles/cleaning-up-wordpress-shortcode-formatting/
 function parse_shortcode_content( $content ) {
 
    /* Parse nested shortcodes and add formatting. */
