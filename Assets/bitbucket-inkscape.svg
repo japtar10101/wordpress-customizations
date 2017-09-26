@@ -5,32 +5,30 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 6.3845 8"
-   width="12.769"
-   height="16"
-   style="fill:#ffffff"
+   viewBox="0 0 8.0238815 7.2150267"
    version="1.1"
-   id="icon-bitbucket"
+   id="svg39"
    sodipodi:docname="bitbucket-inkscape.svg"
-   inkscape:version="0.92.0 r15299">
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   width="8.023881"
+   height="7.2150269">
   <metadata
-     id="metadata10">
+     id="metadata43">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Bitbucket-blue</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs8" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -38,21 +36,77 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2754"
+     inkscape:window-width="2756"
      inkscape:window-height="1755"
-     id="namedview6"
+     id="namedview41"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="78.666667"
-     inkscape:cx="9.263749"
-     inkscape:cy="8.0171656"
+     inkscape:zoom="22.627417"
+     inkscape:cx="40.818808"
+     inkscape:cy="16.078438"
      inkscape:window-x="-13"
      inkscape:window-y="-13"
      inkscape:window-maximized="1"
-     inkscape:current-layer="icon-bitbucket" />
-  <path
-     d="M 3.19225,-4.0000001e-8 C 1.6436098,-4.0000001e-8 0,0.23799997 0,1.2 0,1.8063999 0.2257519,3.561 0.3366826,4.3749999 0.3737922,4.6474001 0.5474708,4.8876 0.7980625,5 c 0,0 0.7980626,0.6 2.3941875,0.6 C 4.788375,5.6 5.586437,5 5.586437,5 5.837029,4.8876 6.010707,4.6474001 6.047817,4.3749999 6.158748,3.561 6.3845,1.8063999 6.3845,1.2 6.3845,0.23799997 4.741289,-4.0000001e-8 3.19225,-4.0000001e-8 Z M 3.19225,0.79999995 C 4.713357,0.79999995 5.537157,1.2268 5.611377,1.4 5.591027,1.4476 5.507729,1.5155 5.374452,1.5875 5.0253,1.7766999 4.293576,1.9999999 3.19225,1.9999999 2.0374536,1.9999999 1.2873746,1.7500999 0.960169,1.5625 0.8496373,1.4993001 0.7862911,1.4509 0.7731231,1.4124999 0.8249972,1.2453001 1.6472009,0.79999995 3.19225,0.79999995 Z m 0,1.99999995 c 0.659998,0 1.197094,0.5384 1.197094,1.2000001 0,0.6616001 -0.537096,1.1999999 -1.197094,1.1999999 C 2.5322523,5.1999999 1.9951563,4.6616001 1.9951563,4 c 0,-0.6616001 0.537096,-1.2000001 1.1970937,-1.2000001 z m 0,0.8 C 2.971871,3.5999999 2.7932188,3.779086 2.7932188,4 c 0,0.2209141 0.1786522,0.4 0.3990312,0.4 0.220379,0 0.399031,-0.1790859 0.399031,-0.4 0,-0.220914 -0.178652,-0.4000001 -0.399031,-0.4000001 z M 0.8479415,5.425 1.1970938,7.2 c 0,0 0.3990313,0.8 1.9951562,0.8 C 4.788375,8 5.187406,7.2 5.187406,7.2 L 5.536559,5.425 C 5.355398,5.5449999 4.579283,5.9999999 3.19225,5.9999999 c -1.3870326,0 -2.1627493,-0.455 -2.3443085,-0.5749999 z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="stroke-width:0.39951533" />
+     inkscape:current-layer="Layer_2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs9">
+    <style
+       id="style2">.cls-1{fill:#253858;}.cls-2{fill:none;}.cls-3{fill:#2684ff;}.cls-4{fill:url(#New_Gradient_Swatch_1);}</style>
+    <linearGradient
+       id="White-To-Transparent"
+       x1="64.010002"
+       y1="30.27"
+       x2="32.990002"
+       y2="54.48"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.02579294,0.8798377)">
+      <stop
+         offset="0.18"
+         stop-color="#0052cc"
+         id="stop4"
+         style="stop-color:#ffffff;stop-opacity:0" />
+      <stop
+         offset="1"
+         stop-color="#2684ff"
+         id="stop6"
+         style="stop-color:#ffffff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#White-To-Transparent"
+       id="linearGradient4754"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.12854092,0,0,0.12854092,0.00469957,55.081724)"
+       x1="64.010002"
+       y1="30.27"
+       x2="32.990002"
+       y2="54.48" />
+  </defs>
+  <title
+     id="title11">Bitbucket-blue</title>
+  <g
+     id="Layer_2"
+     data-name="Layer 2"
+     transform="translate(-0.00132572,-55.886388)">
+    <polygon
+       style="fill:none"
+       id="polygon31"
+       points="40.9,25.12 21.23,25.12 24.7,43.51 37.75,43.51 "
+       class="cls-2" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.1285409"
+       d="m 0.26172968,55.886409 a 0.25708182,0.25708182 0 0 0 -0.25708183,0.298256 l 1.09134235,6.624877 a 0.34963128,0.34963128 0 0 0 0.1443575,0.228463 0.34834588,0.34834588 0 0 1 -0.027365,-0.02134 L 3.1860357,60.674559 2.7336316,58.310611 H 5.2620214 7.6746745 L 7.3279654,60.445092 8.021885,56.18592 A 0.25708182,0.25708182 0 0 0 7.7648033,55.887664 Z m 0.97861812,7.151596 a 0.34963128,0.34963128 0 0 0 0.029626,0.01858 0.34834588,0.34834588 0 0 1 -0.029626,-0.01858 z m 0.029626,0.01858 a 0.34963128,0.34963128 0 0 0 0.031132,0.01556 0.34834588,0.34834588 0 0 1 -0.031132,-0.01556 z m 0.031132,0.01556 a 0.34963128,0.34963128 0 0 0 0.020085,0.0075 0.34834588,0.34834588 0 0 1 -0.020085,-0.0075 z"
+       id="path33"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:url(#linearGradient4754);stroke-width:0.1285409"
+       id="path35"
+       d="M 7.6747359,58.310669 H 5.2620229 L 4.857119,60.674537 H 3.1860873 l -1.9731031,2.342016 a 0.34834588,0.34834588 0 0 0 0.2249466,0.08484 h 5.2367569 a 0.25708182,0.25708182 0 0 0 0.2570821,-0.21595 z"
+       class="cls-4" />
+  </g>
 </svg>
